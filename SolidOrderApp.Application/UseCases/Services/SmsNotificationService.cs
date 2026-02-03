@@ -1,6 +1,8 @@
+using SolidOrderApp.Application.Interfaces;
+
 namespace SolidOrderApp.Application.UseCases.Services;
 
-public class SmsNotificationService
+public class SmsNotificationService : INotificationService
 {
     public void Notify(string message)
     {

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SolidOrderApp.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83da7b2dabc63ce31ea272db30ec7e1d804a7cb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7becf0858b22c3ae72439020858a267c0dc5257f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SolidOrderApp.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SolidOrderApp.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

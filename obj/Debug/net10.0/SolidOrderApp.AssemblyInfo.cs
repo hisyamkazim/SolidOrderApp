@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SolidOrderApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9aed0a8e229969358d35ce2fb5447cf94d3f267")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7becf0858b22c3ae72439020858a267c0dc5257f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SolidOrderApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SolidOrderApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
